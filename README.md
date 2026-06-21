@@ -96,7 +96,7 @@ erDiagram
 
 Aşağıda, aynı tasarımın SQL Server Management Studio (SSMS) üzerinde oluşturulmuş hali görülmektedir:
 
-![SSMS ER diyagramı](docs/er-diagram.png)
+![SSMS ER diyagramı](er-diagram.png)
 
 Tasarım, projenin gereksinimlerini karşılar:
 
@@ -135,11 +135,11 @@ Bu sorguların SSMS üzerinde çalıştırılmış çıktıları:
 
 **JOIN — öğrenci / ders / not:**
 
-![JOIN sorgusu sonucu](docs/sonuc-join.png)
+![JOIN sorgusu sonucu](sonuc-join.png)
 
 **GROUP BY — öğrenci başına toplam kredi:**
 
-![GROUP BY sorgusu sonucu](docs/sonuc-groupby.png)
+![GROUP BY sorgusu sonucu](sonuc-groupby.png)
 
 ---
 
